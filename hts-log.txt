@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Oct 2024 11:37:22 at 9700275022:9700275022@https://aadharprintportal.info/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" 9700275022:9700275022@https://aadharprintportal.info/ -O1 "C:\Users\Nadhu\Desktop\insta\aadhar" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:37:43	Error: 	"Not Found" (404) at link https://aadharprintportal.info/fonts/montserrat/Montserrat-Bold.ttf (from https://aadharprintportal.info/css/main2550.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 77 links scanned, 75 files written (3870281 bytes overall) [2297397 bytes received at 109399 bytes/sec], 2511771 bytes transferred using HTTP compression in 44 files, ratio 34%, 38.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
